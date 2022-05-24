@@ -7,7 +7,7 @@ Three different learning algorithms are used:
 - Unsupervised learning
 - Reinforcement learning
 
-In this four different datasets are used:
+In here four different datasets are used:
 - [Hitters Baseball Data](https://www.kaggle.com/datasets/mathchi/hitters-baseball-data)
 - [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 - [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
